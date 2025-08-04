@@ -1,0 +1,251 @@
+IMDb_ID,Title,Year,Rated,Released,Runtime_Minutes,Genre,Director,Top_Cast,BoxOffice,IMDb_Rating,IMDb_Votes
+tt0111161,The Shawshank Redemption,1994,R,14-Oct-94,142,Drama,Frank Darabont,"Tim Robbins, Morgan Freeman, Bob Gunton",28767189,9.3,3075711
+tt0068646,The Godfather,1972,R,24-Mar-72,175,"Crime, Drama",Francis Ford Coppola,"Marlon Brando, Al Pacino, James Caan",136381073,9.2,2142249
+tt0468569,The Dark Knight,2008,PG-13,18-Jul-08,152,"Action, Crime, Drama",Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart",534987076,9,3044547
+tt0071562,The Godfather Part II,1974,R,18-Dec-74,202,"Crime, Drama",Francis Ford Coppola,"Al Pacino, Robert De Niro, Robert Duvall",47834595,9,1441140
+tt0050083,12 Angry Men,1957,Approved,10-Apr-57,96,"Crime, Drama",Sidney Lumet,"Henry Fonda, Lee J. Cobb, Martin Balsam",,9,937244
+tt0167260,The Lord of the Rings: The Return of the King,2003,PG-13,17-Dec-03,201,"Adventure, Drama, Fantasy",Peter Jackson,"Elijah Wood, Viggo Mortensen, Ian McKellen",381878219,9,2092328
+tt0108052,Schindler's List,1993,R,4-Feb-94,195,"Biography, Drama, History",Steven Spielberg,"Liam Neeson, Ralph Fiennes, Ben Kingsley",96898818,9,1535060
+tt0110912,Pulp Fiction,1994,R,14-Oct-94,154,"Crime, Drama",Quentin Tarantino,"John Travolta, Uma Thurman, Samuel L. Jackson",107928762,8.8,2352993
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,19-Dec-01,178,"Adventure, Drama, Fantasy",Peter Jackson,"Elijah Wood, Ian McKellen, Orlando Bloom",319372078,8.9,2124156
+tt0060196,"The Good, the Bad and the Ugly",1966,R,29-Dec-67,178,"Adventure, Drama, Western",Sergio Leone,"Clint Eastwood, Eli Wallach, Lee Van Cleef",25100000,8.8,862502
+tt0109830,Forrest Gump,1994,PG-13,6-Jul-94,142,"Drama, Romance",Robert Zemeckis,"Tom Hanks, Robin Wright, Gary Sinise",330455270,8.8,2400011
+tt0167261,The Lord of the Rings: The Two Towers,2002,PG-13,18-Dec-02,179,"Adventure, Drama, Fantasy",Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen",345518923,8.8,1888873
+tt0137523,Fight Club,1999,R,15-Oct-99,139,"Crime, Drama, Thriller",David Fincher,"Brad Pitt, Edward Norton, Meat Loaf",37030102,8.8,2492404
+tt1375666,Inception,2010,PG-13,16-Jul-10,148,"Action, Adventure, Sci-Fi",Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",292587330,8.8,2705756
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,1980,PG,18-Jun-80,124,"Action, Adventure, Fantasy",Irvin Kershner,"Mark Hamill, Harrison Ford, Carrie Fisher",292753960,8.7,1454664
+tt0133093,The Matrix,1999,R,31-Mar-99,136,"Action, Sci-Fi","Lana Wachowski, Lilly Wachowski","Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",172076928,8.7,2170119
+tt0099685,Goodfellas,1990,R,21-Sep-90,145,"Biography, Crime, Drama",Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci",46909721,8.7,1340520
+tt0816692,Interstellar,2014,PG-13,7-Nov-14,169,"Adventure, Drama, Sci-Fi",Christopher Nolan,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",203227580,8.7,2375214
+tt0073486,One Flew Over the Cuckoo's Nest,1975,R,19-Nov-75,133,Drama,Milos Forman,"Jack Nicholson, Louise Fletcher, Michael Berryman",108981275,8.7,1126248
+tt0114369,Se7en,1995,R,22-Sep-95,127,"Crime, Drama, Mystery",David Fincher,"Morgan Freeman, Brad Pitt, Kevin Spacey",101040643,8.6,1929288
+tt0038650,It's a Wonderful Life,1946,PG,7-Jan-47,130,"Drama, Family, Fantasy",Frank Capra,"James Stewart, Donna Reed, Lionel Barrymore",1483643,8.6,531364
+tt0102926,The Silence of the Lambs,1991,R,14-Feb-91,118,"Crime, Drama, Horror",Jonathan Demme,"Jodie Foster, Anthony Hopkins, Scott Glenn",130742922,8.6,1649188
+tt0047478,Seven Samurai,1954,Not Rated,19-Nov-56,207,"Action, Drama",Akira Kurosawa,"Toshirô Mifune, Takashi Shimura, Keiko Tsushima",820278,8.6,388416
+tt0120815,Saving Private Ryan,1998,R,24-Jul-98,169,"Drama, War",Steven Spielberg,"Tom Hanks, Matt Damon, Tom Sizemore",217049603,8.6,1582558
+tt0120689,The Green Mile,1999,R,10-Dec-99,189,"Crime, Drama, Fantasy",Frank Darabont,"Tom Hanks, Michael Clarke Duncan, David Morse",136801374,8.6,1500424
+tt0317248,City of God,2002,R,13-Feb-04,130,"Crime, Drama","Fernando Meirelles, Kátia Lund","Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele",7564459,8.6,844022
+tt0118799,Life Is Beautiful,1997,PG-13,20-Dec-97,116,"Comedy, Drama, Romance",Roberto Benigni,"Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",57563264,8.6,785025
+tt0103064,Terminator 2: Judgment Day,1991,R,3-Jul-91,137,"Action, Adventure, Sci-Fi",James Cameron,"Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",205881154,8.6,1241481
+tt0076759,Star Wars: Episode IV - A New Hope,1977,PG,25-May-77,121,"Action, Adventure, Fantasy",George Lucas,"Mark Hamill, Harrison Ford, Carrie Fisher",460998507,8.6,1521039
+tt0088763,Back to the Future,1985,PG,3-Jul-85,116,"Adventure, Comedy, Sci-Fi",Robert Zemeckis,"Michael J. Fox, Christopher Lloyd, Lea Thompson",214553307,8.5,1389648
+tt0245429,Spirited Away,2001,PG,28-Mar-03,124,"Animation, Adventure, Family",Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette, Miyu Irino",15205725,8.6,920055
+tt0253474,The Pianist,2002,R,28-Mar-03,150,"Biography, Drama, Music",Roman Polanski,"Adrien Brody, Thomas Kretschmann, Frank Finlay",32590750,8.5,970804
+tt0172495,Gladiator,2000,R,5-May-00,155,"Action, Adventure, Drama",Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen",187705427,8.5,1777497
+tt6751668,Parasite,2019,R,8-Nov-19,132,"Drama, Thriller",Bong Joon Ho,"Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong",53847897,8.5,1079711
+tt0054215,Psycho,1960,R,8-Sep-60,109,"Drama, Horror, Mystery",Alfred Hitchcock,"Anthony Perkins, Janet Leigh, Vera Miles",32181230,8.5,759534
+tt0110357,The Lion King,1994,G,24-Jun-94,88,"Animation, Adventure, Drama","Roger Allers, Rob Minkoff","Matthew Broderick, Jeremy Irons, James Earl Jones",424979720,8.5,1213596
+tt0095327,Grave of the Fireflies,1988,Not Rated,26-Jul-89,88,"Animation, Drama, War",Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi",516962,8.5,342933
+tt0407887,The Departed,2006,R,6-Oct-06,151,"Crime, Drama, Thriller",Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson",132399394,8.5,1501836
+tt2582802,Whiplash,2014,R,15-Oct-14,106,"Drama, Music",Damien Chazelle,"Miles Teller, J.K. Simmons, Melissa Benoist",14003391,8.5,1086388
+tt0056058,Harakiri,1962,Not Rated,4-Aug-64,133,"Drama, Mystery",Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama, Shima Iwashita",,8.6,79357
+tt0482571,The Prestige,2006,PG-13,20-Oct-06,130,"Drama, Mystery, Sci-Fi",Christopher Nolan,"Christian Bale, Hugh Jackman, Scarlett Johansson",53089891,8.5,1530216
+tt0120586,American History X,1998,R,20-Nov-98,119,"Crime, Drama",Tony Kaye,"Edward Norton, Edward Furlong, Beverly D'Angelo",6719864,8.5,1238616
+tt0110413,Léon: The Professional,1994,R,18-Nov-94,110,"Action, Crime, Drama",Luc Besson,"Jean Reno, Gary Oldman, Natalie Portman",19501238,8.5,1310723
+tt9362722,Spider-Man: Across the Spider-Verse,2023,PG,2-Jun-23,140,"Animation, Action, Adventure","Joaquim Dos Santos, Kemp Powers, Justin K. Thompson","Shameik Moore, Hailee Steinfeld, Brian Tyree Henry",381593754,8.5,468141
+tt0034583,Casablanca,1942,PG,23-Jan-43,102,"Drama, Romance, War",Michael Curtiz,"Humphrey Bogart, Ingrid Bergman, Paul Henreid",4219709,8.5,636386
+tt0095765,Cinema Paradiso,1988,PG,23-Feb-90,174,"Drama, Romance",Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale, Antonella Attili",12397210,8.5,302295
+tt0114814,The Usual Suspects,1995,R,16-Aug-95,106,"Crime, Drama, Mystery",Bryan Singer,"Kevin Spacey, Gabriel Byrne, Chazz Palminteri",23341568,8.5,1197797
+tt1675434,The Intouchables,2011,R,2-Nov-11,112,"Comedy, Drama","Olivier Nakache, Éric Toledano","François Cluzet, Omar Sy, Anne Le Ny",10198820,8.5,987292
+tt0078748,Alien,1979,R,22-Jun-79,117,"Horror, Sci-Fi",Ridley Scott,"Sigourney Weaver, Tom Skerritt, John Hurt",84206106,8.5,1026113
+tt0027977,Modern Times,1936,G,25-Feb-36,87,"Comedy, Drama, Romance",Charles Chaplin,"Charles Chaplin, Paulette Goddard, Henry Bergman",163577,8.5,275474
+tt0047396,Rear Window,1954,PG,1-Sep-54,112,"Drama, Mystery, Thriller",Alfred Hitchcock,"James Stewart, Grace Kelly, Wendell Corey",37622343,8.5,551992
+tt0064116,Once Upon a Time in the West,1968,PG-13,4-Jul-69,166,"Drama, Western",Sergio Leone,"Henry Fonda, Charles Bronson, Claudia Cardinale",5321508,8.5,371921
+tt1853728,Django Unchained,2012,R,25-Dec-12,165,"Drama, Western",Quentin Tarantino,"Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",162805434,8.5,1806256
+tt0021749,City Lights,1931,G,7-Mar-31,87,"Comedy, Drama, Romance",Charles Chaplin,"Charles Chaplin, Virginia Cherrill, Florence Lee",19181,8.5,207640
+tt0078788,Apocalypse Now,1979,R,15-Aug-79,147,"Drama, Mystery, War",Francis Ford Coppola,"Martin Sheen, Marlon Brando, Robert Duvall",96042913,8.4,745221
+tt0910970,WALL·E,2008,G,27-Jun-08,98,"Animation, Adventure, Family",Andrew Stanton,"Ben Burtt, Elissa Knight, Jeff Garlin",223808164,8.4,1273378
+tt0209144,Memento,2000,R,25-May-01,113,"Drama, Mystery, Thriller",Christopher Nolan,"Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",25544867,8.4,1389289
+tt15239678,Dune: Part Two,2024,PG-13,1-Mar-24,166,"Action, Adventure, Drama",Denis Villeneuve,"Timothée Chalamet, Zendaya, Rebecca Ferguson",282144358,8.5,648717
+tt0082971,Raiders of the Lost Ark,1981,PG,12-Jun-81,115,"Action, Adventure",Steven Spielberg,"Harrison Ford, Karen Allen, Paul Freeman",248159971,8.4,1080931
+tt4154756,Avengers: Infinity War,2018,PG-13,27-Apr-18,149,"Action, Adventure, Sci-Fi","Anthony Russo, Joe Russo","Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",678815482,8.4,1301790
+tt0405094,The Lives of Others,2006,R,30-Mar-07,137,"Drama, Mystery, Thriller",Florian Henckel von Donnersmarck,"Ulrich Mühe, Martina Gedeck, Sebastian Koch",11286112,8.4,427956
+tt0043014,Sunset Boulevard,1950,Approved,4-Aug-50,110,"Drama, Film-Noir",Billy Wilder,"William Holden, Gloria Swanson, Erich von Stroheim",299645,8.4,248927
+tt4633694,Spider-Man: Into the Spider-Verse,2018,PG,14-Dec-18,117,"Animation, Action, Adventure","Bob Persichetti, Peter Ramsey, Rodney Rothman","Shameik Moore, Jake Johnson, Hailee Steinfeld",190241310,8.4,741247
+tt0051201,Witness for the Prosecution,1957,Approved,6-Feb-58,116,"Crime, Drama, Mystery",Billy Wilder,"Tyrone Power, Marlene Dietrich, Charles Laughton",,8.4,150528
+tt0050825,Paths of Glory,1957,Approved,25-Dec-57,88,"Drama, War",Stanley Kubrick,"Kirk Douglas, Ralph Meeker, Adolphe Menjou",,8.4,228618
+tt0081505,The Shining,1980,R,13-Jun-80,146,"Drama, Horror",Stanley Kubrick,"Jack Nicholson, Shelley Duvall, Danny Lloyd",45634352,8.4,1175569
+tt0032553,The Great Dictator,1940,G,7-Mar-41,125,"Comedy, Drama, War",Charles Chaplin,"Charles Chaplin, Paulette Goddard, Jack Oakie",,8.4,248651
+tt23849204,12th Fail,2023,N/A,27-Oct-23,147,"Biography, Drama",Vidhu Vinod Chopra,"Vikrant Massey, Medha Shankr, Anant Joshi",,8.7,149954
+tt0361748,Inglourious Basterds,2009,R,21-Aug-09,153,"Adventure, Drama, War",Quentin Tarantino,"Brad Pitt, Diane Kruger, Eli Roth",120540719,8.4,1701388
+tt0090605,Aliens,1986,R,18-Jul-86,137,"Action, Adventure, Horror",James Cameron,"Sigourney Weaver, Michael Biehn, Carrie Henn",85160248,8.4,814899
+tt1345836,The Dark Knight Rises,2012,PG-13,20-Jul-12,164,"Action, Crime, Drama",Christopher Nolan,"Christian Bale, Tom Hardy, Anne Hathaway",448149584,8.4,1926092
+tt2380307,Coco,2017,PG,22-Nov-17,105,"Animation, Adventure, Drama","Lee Unkrich, Adrian Molina","Anthony Gonzalez, Gael García Bernal, Benjamin Bratt",210460015,8.4,659069
+tt0086879,Amadeus,1984,PG,19-Sep-84,160,"Biography, Drama, Music",Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge",51973029,8.4,452042
+tt4154796,Avengers: Endgame,2019,PG-13,26-Apr-19,181,"Action, Adventure, Sci-Fi","Anthony Russo, Joe Russo","Robert Downey Jr., Chris Evans, Mark Ruffalo",858373000,8.4,1373635
+tt0114709,Toy Story,1995,G,22-Nov-95,81,"Animation, Adventure, Comedy",John Lasseter,"Tom Hanks, Tim Allen, Don Rickles",223225679,8.3,1131543
+tt0119217,Good Will Hunting,1997,R,9-Jan-98,126,"Drama, Romance",Gus Van Sant,"Robin Williams, Matt Damon, Ben Affleck",138433435,8.3,1147984
+tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,29-Jan-64,95,"Comedy, War",Stanley Kubrick,"Peter Sellers, George C. Scott, Sterling Hayden",9440272,8.3,541393
+tt0364569,Oldboy,2003,R,21-Nov-03,120,"Action, Drama, Mystery",Park Chan-wook,"Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong",2458200,8.3,686594
+tt0057565,High and Low,1963,Not Rated,26-Nov-63,143,"Crime, Drama, Mystery",Akira Kurosawa,"Toshirô Mifune, Yutaka Sada, Tatsuya Nakadai",46808,8.4,62377
+tt0082096,Das Boot,1981,R,10-Feb-82,149,"Drama, War",Wolfgang Petersen,"Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann",11487676,8.4,280184
+tt0112573,Braveheart,1995,R,24-May-95,178,"Biography, Drama, War",Mel Gibson,"Mel Gibson, Sophie Marceau, Patrick McGoohan",75609945,8.3,1136531
+tt0169547,American Beauty,1999,R,1-Oct-99,122,Drama,Sam Mendes,"Kevin Spacey, Annette Bening, Thora Birch",130096601,8.3,1247771
+tt5311514,Your Name.,2016,TV-PG,7-Apr-17,106,"Animation, Drama, Fantasy",Makoto Shinkai,"Ryûnosuke Kamiki, Mone Kamishiraishi, Ryo Narita",5017246,8.4,365143
+tt0119698,Princess Mononoke,1997,PG-13,12-Jul-97,133,"Animation, Adventure, Fantasy",Hayao Miyazaki,"Yôji Matsuda, Yuriko Ishida, Yûko Tanaka",11696687,8.3,465211
+tt1187043,3 Idiots,2009,PG-13,25-Dec-09,170,"Comedy, Drama",Rajkumar Hirani,"Aamir Khan, Madhavan, Mona Singh",6532874,8.4,464364
+tt7286456,Joker,2019,R,4-Oct-19,122,"Crime, Drama, Thriller",Todd Phillips,"Joaquin Phoenix, Robert De Niro, Zazie Beetz",335477657,8.3,1628995
+tt8267604,Capernaum,2018,R,20-Sep-18,126,Drama,Nadine Labaki,"Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole",1661096,8.4,117641
+tt0087843,Once Upon a Time in America,1984,R,1-Jun-84,229,"Crime, Drama",Sergio Leone,"Robert De Niro, James Woods, Elizabeth McGovern",5321508,8.3,398050
+tt0045152,Singin' in the Rain,1952,G,10-Apr-52,103,"Comedy, Musical, Romance","Stanley Donen, Gene Kelly","Gene Kelly, Donald O'Connor, Debbie Reynolds",1884537,8.3,274414
+tt0091251,Come and See,1985,Not Rated,3-Sep-85,142,"Drama, Thriller, War",Elem Klimov,"Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius",71909,8.3,112985
+tt0180093,Requiem for a Dream,2000,NC-17,15-Dec-00,102,Drama,Darren Aronofsky,"Ellen Burstyn, Jared Leto, Jennifer Connelly",3635482,8.3,945555
+tt0086190,Star Wars: Episode VI - Return of the Jedi,1983,PG,25-May-83,131,"Action, Adventure, Fantasy",Richard Marquand,"Mark Hamill, Harrison Ford, Carrie Fisher",316566101,8.3,1174194
+tt0435761,Toy Story 3,2010,G,18-Jun-10,103,"Animation, Adventure, Comedy",Lee Unkrich,"Tom Hanks, Tim Allen, Joan Cusack",415004880,8.3,938919
+tt2106476,The Hunt,2012,R,14-Nov-12,115,Drama,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp",613308,8.3,391965
+tt0044741,Ikiru,1952,Not Rated,25-Mar-56,143,Drama,Akira Kurosawa,"Takashi Shimura, Nobuo Kaneko, Shin'ichi Himori",60239,8.3,96960
+tt0338013,Eternal Sunshine of the Spotless Mind,2004,R,19-Mar-04,108,"Drama, Romance, Sci-Fi",Michel Gondry,"Jim Carrey, Kate Winslet, Tom Wilkinson",34400301,8.3,1145330
+tt1255953,Incendies,2010,R,22-Apr-11,131,"Drama, Mystery, War",Denis Villeneuve,"Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette",2071334,8.3,232327
+tt0053604,The Apartment,1960,Approved,29-Jun-60,125,"Comedy, Drama, Romance",Billy Wilder,"Jack Lemmon, Shirley MacLaine, Fred MacMurray",18600000,8.3,210832
+tt0062622,2001: A Space Odyssey,1968,G,12-May-68,149,"Adventure, Sci-Fi",Stanley Kubrick,"Keir Dullea, Gary Lockwood, William Sylvester",60481243,8.3,759754
+tt0056172,Lawrence of Arabia,1962,PG,2-Apr-13,227,"Adventure, Biography, Drama",David Lean,"Peter O'Toole, Alec Guinness, Anthony Quinn",45306425,8.3,327088
+tt0105236,Reservoir Dogs,1992,R,2-Sep-92,99,"Crime, Thriller",Quentin Tarantino,"Harvey Keitel, Tim Roth, Michael Madsen",2832029,8.3,1139404
+tt0086250,Scarface,1983,R,9-Dec-83,170,"Crime, Drama",Brian De Palma,"Al Pacino, Michelle Pfeiffer, Steven Bauer",45967303,8.3,977235
+tt0113277,Heat,1995,R,15-Dec-95,170,"Action, Crime, Drama",Michael Mann,"Al Pacino, Robert De Niro, Val Kilmer",67436818,8.3,767639
+tt0036775,Double Indemnity,1944,Approved,6-Jul-44,107,"Crime, Drama, Film-Noir",Billy Wilder,"Fred MacMurray, Barbara Stanwyck, Edward G. Robinson",,8.3,176292
+tt0053125,North by Northwest,1959,Approved,18-Dec-59,136,"Adventure, Drama, Mystery",Alfred Hitchcock,"Cary Grant, Eva Marie Saint, James Mason",66728,8.3,362488
+tt1049413,Up,2009,PG,29-May-09,96,"Animation, Adventure, Comedy","Pete Docter, Bob Peterson","Edward Asner, Jordan Nagai, John Ratzenberger",293004164,8.3,1193532
+tt0022100,M,1931,Passed,31-Aug-31,99,"Crime, Mystery, Thriller",Fritz Lang,"Peter Lorre, Ellen Widmann, Inge Landgut",35566,8.3,178317
+tt0033467,Citizen Kane,1941,PG,5-Sep-41,119,"Drama, Mystery",Orson Welles,"Orson Welles, Joseph Cotten, Dorothy Comingore",1627530,8.3,484168
+tt0093058,Full Metal Jacket,1987,R,10-Jul-87,116,"Drama, War",Stanley Kubrick,"Matthew Modine, R. Lee Ermey, Vincent D'Onofrio",46357676,8.2,828015
+tt0052357,Vertigo,1958,PG,28-May-58,128,"Mystery, Romance, Thriller",Alfred Hitchcock,"James Stewart, Kim Novak, Barbara Bel Geddes",7863310,8.2,448438
+tt0211915,Amélie,2001,R,8-Feb-02,122,"Comedy, Romance",Jean-Pierre Jeunet,"Audrey Tautou, Mathieu Kassovitz, Rufus",33712444,8.3,814883
+tt0986264,Like Stars on Earth,2007,PG,21-Dec-07,162,"Drama, Family",Aamir Khan,"Darsheel Safary, Aamir Khan, Tisca Chopra",1223869,8.3,217612
+tt1832382,A Separation,2011,PG-13,16-Mar-11,123,Drama,Asghar Farhadi,"Payman Maadi, Leila Hatami, Sareh Bayat",7099055,8.3,271429
+tt0056592,To Kill a Mockingbird,1962,Approved,16-Mar-63,129,"Crime, Drama",Robert Mulligan,"Gregory Peck, John Megna, Frank Overton",592237,8.3,344345
+tt0095016,Die Hard,1988,R,20-Jul-88,132,"Action, Thriller",John McTiernan,"Bruce Willis, Alan Rickman, Bonnie Bedelia",85892546,8.2,997102
+tt0097576,Indiana Jones and the Last Crusade,1989,PG-13,24-May-89,127,"Action, Adventure",Steven Spielberg,"Harrison Ford, Sean Connery, Alison Doody",197171806,8.2,843307
+tt0070735,The Sting,1973,PG,25-Dec-73,129,"Comedy, Crime, Drama",George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw",156000000,8.3,289424
+tt0066921,A Clockwork Orange,1971,R,2-Feb-72,136,"Crime, Sci-Fi",Stanley Kubrick,"Malcolm McDowell, Patrick Magee, Michael Bates",26617553,8.2,916389
+tt0017136,Metropolis,1927,Not Rated,13-Mar-27,153,"Drama, Sci-Fi",Fritz Lang,"Brigitte Helm, Alfred Abel, Gustav Fröhlich",1236166,8.3,195819
+tt15398776,Oppenheimer,2023,R,21-Jul-23,180,"Biography, Drama, History",Christopher Nolan,"Cillian Murphy, Emily Blunt, Matt Damon",330078895,8.3,915198
+tt0252488,The Chaos Class Failed the Class,1975,N/A,1-Jan-76,95,Comedy,Ertem Egilmez,"Münir Özkul, Tarik Akan, Kemal Sunal",,8.9,25096
+tt0208092,Snatch,2000,R,19-Jan-01,102,"Comedy, Crime",Guy Ritchie,"Jason Statham, Brad Pitt, Stephen Graham",30328156,8.2,952376
+tt8579674,1917,2019,R,10-Jan-20,119,"Action, Drama, War",Sam Mendes,"Dean-Charles Chapman, George MacKay, Daniel Mays",159227644,8.2,735870
+tt0119488,L.A. Confidential,1997,R,19-Sep-97,138,"Crime, Drama, Mystery",Curtis Hanson,"Kevin Spacey, Russell Crowe, Guy Pearce",64616940,8.2,643311
+tt0040522,Bicycle Thieves,1948,Not Rated,13-Dec-49,89,Drama,Vittorio De Sica,"Lamberto Maggiorani, Enzo Staiola, Lianella Carell",371111,8.2,185984
+tt0363163,Downfall,2004,R,8-Apr-05,156,"Biography, Drama, History",Oliver Hirschbiegel,"Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes",5509040,8.2,389665
+tt5074352,Dangal,2016,Not Rated,21-Dec-16,161,"Action, Biography, Drama",Nitesh Tiwari,"Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh",12391761,8.3,229403
+tt0993846,The Wolf of Wall Street,2013,R,25-Dec-13,180,"Biography, Comedy, Crime",Martin Scorsese,"Leonardo DiCaprio, Jonah Hill, Margot Robbie",116900694,8.2,1701789
+tt8503618,Hamilton,2020,PG-13,3-Jul-20,160,"Biography, Drama, History",Thomas Kail,"Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr.",,8.3,127159
+tt6966692,Green Book,2018,PG-13,16-Nov-18,130,"Biography, Comedy, Drama",Peter Farrelly,"Viggo Mortensen, Mahershala Ali, Linda Cardellini",85080171,8.2,646542
+tt0075314,Taxi Driver,1976,R,9-Feb-76,114,"Crime, Drama",Martin Scorsese,"Robert De Niro, Jodie Foster, Cybill Shepherd",28262574,8.2,989092
+tt0120382,The Truman Show,1998,PG,5-Jun-98,103,"Comedy, Drama",Peter Weir,"Jim Carrey, Ed Harris, Laura Linney",125618201,8.2,1300199
+tt0372784,Batman Begins,2005,PG-13,15-Jun-05,140,"Action, Crime, Drama",Christopher Nolan,"Christian Bale, Michael Caine, Ken Watanabe",206863479,8.2,1659219
+tt0059578,For a Few Dollars More,1965,R,10-May-67,132,"Drama, Western",Sergio Leone,"Clint Eastwood, Lee Van Cleef, Gian Maria Volontè",15000000,8.2,289778
+tt0055031,Judgment at Nuremberg,1961,Approved,18-Dec-61,179,"Drama, War",Stanley Kramer,"Spencer Tracy, Burt Lancaster, Richard Widmark",,8.3,92916
+tt0053291,Some Like It Hot,1959,Approved,19-Mar-59,121,"Comedy, Music, Romance",Billy Wilder,"Marilyn Monroe, Tony Curtis, Jack Lemmon",,8.2,297275
+tt1130884,Shutter Island,2010,R,19-Feb-10,138,"Drama, Mystery, Thriller",Martin Scorsese,"Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo",128012934,8.2,1563854
+tt0012349,The Kid,1921,Passed,6-Feb-21,68,"Comedy, Drama, Family",Charles Chaplin,"Charles Chaplin, Edna Purviance, Jackie Coogan",,8.2,139244
+tt10272386,The Father,2020,PG-13,26-Feb-21,97,"Drama, Mystery",Florian Zeller,"Anthony Hopkins, Olivia Colman, Mark Gatiss",2122771,8.2,212943
+tt0107290,Jurassic Park,1993,PG-13,11-Jun-93,127,"Action, Adventure, Sci-Fi",Steven Spielberg,"Sam Neill, Laura Dern, Jeff Goldblum",407185075,8.2,1130773
+tt0042192,All About Eve,1950,Approved,27-Oct-50,138,Drama,Joseph L. Mankiewicz,"Bette Davis, Anne Baxter, George Sanders",63463,8.2,145739
+tt0469494,There Will Be Blood,2007,R,25-Jan-08,158,Drama,Paul Thomas Anderson,"Daniel Day-Lewis, Paul Dano, Ciarán Hinds",40222514,8.2,674063
+tt0167404,The Sixth Sense,1999,PG-13,6-Aug-99,107,"Drama, Mystery, Thriller",M. Night Shyamalan,"Bruce Willis, Haley Joel Osment, Toni Collette",293506292,8.2,1108370
+tt0089881,Ran,1985,R,1-Jun-85,160,"Action, Drama, War",Akira Kurosawa,"Tatsuya Nakadai, Akira Terao, Jinpachi Nezu",4314927,8.2,145591
+tt0112641,Casino,1995,R,22-Nov-95,178,"Crime, Drama",Martin Scorsese,"Robert De Niro, Sharon Stone, Joe Pesci",42512375,8.2,597649
+tt1745960,Top Gun: Maverick,2022,PG-13,27-May-22,130,"Action, Drama",Joseph Kosinski,"Tom Cruise, Jennifer Connelly, Miles Teller",718732821,8.2,790467
+tt0477348,No Country for Old Men,2007,R,21-Nov-07,122,"Crime, Drama, Thriller","Ethan Coen, Joel Coen","Tommy Lee Jones, Javier Bardem, Josh Brolin",74283625,8.2,1136999
+tt0084787,The Thing,1982,R,25-Jun-82,109,"Horror, Mystery, Sci-Fi",John Carpenter,"Kurt Russell, Wilford Brimley, Keith David",20063820,8.2,498757
+tt0105695,Unforgiven,1992,R,7-Aug-92,130,"Drama, Western",Clint Eastwood,"Clint Eastwood, Gene Hackman, Morgan Freeman",101167799,8.2,457932
+tt0457430,Pan's Labyrinth,2006,R,19-Jan-07,118,"Drama, Fantasy, War",Guillermo del Toro,"Ivana Baquero, Ariadna Gil, Sergi López",37646380,8.2,729371
+tt0266697,Kill Bill: Vol. 1,2003,R,10-Oct-03,111,"Action, Crime, Thriller",Quentin Tarantino,"Uma Thurman, David Carradine, Daryl Hannah",70099045,8.2,1259314
+tt0268978,A Beautiful Mind,2001,PG-13,4-Jan-02,135,"Biography, Drama, Mystery",Ron Howard,"Russell Crowe, Ed Harris, Jennifer Connelly",170742341,8.2,1027740
+tt1392214,Prisoners,2013,R,20-Sep-13,153,"Crime, Drama, Mystery",Denis Villeneuve,"Hugh Jackman, Jake Gyllenhaal, Viola Davis",61002302,8.2,882169
+tt0040897,The Treasure of the Sierra Madre,1948,Approved,24-Jan-48,126,"Adventure, Drama, Western",John Huston,"Humphrey Bogart, Walter Huston, Tim Holt",5014000,8.2,138409
+tt0346336,The Best of Youth,2003,R,20-Jun-03,374,"Drama, Romance",Marco Tullio Giordana,"Luigi Lo Cascio, Alessio Boni, Jasmine Trinca",274024,8.5,25170
+tt0055630,Yojimbo,1961,Not Rated,13-Sep-61,110,"Action, Drama, Thriller",Akira Kurosawa,"Toshirô Mifune, Eijirô Tôno, Tatsuya Nakadai",46808,8.2,135707
+tt0266543,Finding Nemo,2003,G,30-May-03,100,"Animation, Adventure, Comedy","Andrew Stanton, Lee Unkrich","Albert Brooks, Ellen DeGeneres, Alexander Gould",380843261,8.2,1169699
+tt0347149,Howl's Moving Castle,2004,PG,17-Jun-05,119,"Animation, Adventure, Family",Hayao Miyazaki,"Chieko Baishô, Takuya Kimura, Tatsuya Gashûin",9173958,8.2,488765
+tt0057115,The Great Escape,1963,Approved,4-Jul-63,172,"Adventure, Drama, Thriller",John Sturges,"Steve McQueen, James Garner, Richard Attenborough",,8.2,270732
+tt0071853,Monty Python and the Holy Grail,1975,PG,18-Jul-75,91,"Adventure, Comedy, Fantasy","Terry Gilliam, Terry Jones","Graham Chapman, John Cleese, Eric Idle",2562392,8.2,591744
+tt0080678,The Elephant Man,1980,PG,10-Oct-80,124,"Biography, Drama",David Lynch,"Anthony Hopkins, John Hurt, Anne Bancroft",26010864,8.2,272707
+tt0046912,Dial M for Murder,1954,PG,29-May-54,105,"Crime, Drama, Mystery",Alfred Hitchcock,"Ray Milland, Grace Kelly, Robert Cummings",24845,8.2,199578
+tt4729430,Klaus,2019,PG,15-Nov-19,96,"Animation, Adventure, Comedy","Sergio Pablos, Carlos Martínez López","Jason Schwartzman, J.K. Simmons, Rashida Jones",,8.2,217182
+tt0031381,Gone with the Wind,1939,G,17-Jan-40,238,"Drama, Romance, War",Victor Fleming,"Clark Gable, Vivien Leigh, Thomas Mitchell",200882193,8.2,346019
+tt1305806,The Secret in Their Eyes,2009,R,21-May-10,129,"Drama, Mystery, Romance",Juan José Campanella,"Ricardo Darín, Soledad Villamil, Pablo Rago",6391436,8.2,234837
+tt0071315,Chinatown,1974,R,20-Jun-74,130,"Drama, Mystery, Thriller",Roman Polanski,"Jack Nicholson, Faye Dunaway, John Huston",29200000,8.1,368033
+tt0120735,"Lock, Stock and Two Smoking Barrels",1998,R,28-Aug-98,107,"Comedy, Crime",Guy Ritchie,"Jason Flemyng, Dexter Fletcher, Nick Moran",3753929,8.1,635182
+tt0042876,Rashomon,1950,Not Rated,26-Dec-51,88,"Crime, Drama, Mystery",Akira Kurosawa,"Toshirô Mifune, Machiko Kyô, Masayuki Mori",46808,8.2,191137
+tt0434409,V for Vendetta,2005,R,17-Mar-06,132,"Action, Drama, Sci-Fi",James McTeigue,"Hugo Weaving, Natalie Portman, Rupert Graves",70511035,8.1,1221488
+tt2096673,Inside Out,2015,PG,19-Jun-15,95,"Animation, Adventure, Comedy","Pete Docter, Ronnie Del Carmen","Amy Poehler, Bill Hader, Lewis Black",356461711,8.1,877782
+tt5027774,"Three Billboards Outside Ebbing, Missouri",2017,R,1-Dec-17,115,"Comedy, Crime, Drama",Martin McDonagh,"Frances McDormand, Woody Harrelson, Sam Rockwell",54513740,8.1,587824
+tt0264464,Catch Me If You Can,2002,PG-13,25-Dec-02,141,"Biography, Crime, Drama",Steven Spielberg,"Leonardo DiCaprio, Tom Hanks, Christopher Walken",164615351,8.1,1177789
+tt0117951,Trainspotting,1996,R,9-Aug-96,93,"Crime, Drama",Danny Boyle,"Ewan McGregor, Ewen Bremner, Jonny Lee Miller",16491080,8.1,754295
+tt0050212,The Bridge on the River Kwai,1957,PG,14-Dec-57,161,"Adventure, Drama, War",David Lean,"William Holden, Alec Guinness, Jack Hawkins",27200000,8.1,243002
+tt0081398,Raging Bull,1980,R,19-Dec-80,129,"Biography, Drama, Sport",Martin Scorsese,"Robert De Niro, Cathy Moriarty, Joe Pesci",23383987,8.1,398238
+tt29623480,The Wild Robot,2024,PG,27-Sep-24,102,"Animation, Adventure, Family",Chris Sanders,"Lupita Nyong'o, Pedro Pascal, Kit Connor",143901945,8.2,188881
+tt1201607,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,15-Jul-11,130,"Adventure, Family, Fantasy",David Yates,"Daniel Radcliffe, Emma Watson, Rupert Grint",381447587,8.1,1007234
+tt0116282,Fargo,1996,R,5-Apr-96,98,"Crime, Drama, Thriller","Joel Coen, Ethan Coen","William H. Macy, Frances McDormand, Steve Buscemi",24611975,8.1,753704
+tt1291584,Warrior,2011,PG-13,9-Sep-11,140,"Action, Drama, Sport",Gavin O'Connor,"Tom Hardy, Nick Nolte, Joel Edgerton",13657115,8.1,517553
+tt1205489,Gran Torino,2008,R,9-Jan-09,116,Drama,Clint Eastwood,"Clint Eastwood, Bee Vang, Christopher Carley",148095302,8.1,844428
+tt0405159,Million Dollar Baby,2004,PG-13,28-Jan-05,132,"Drama, Sport",Clint Eastwood,"Hilary Swank, Clint Eastwood, Morgan Freeman",100492203,8.1,750120
+tt0052618,Ben-Hur,1959,G,18-Nov-59,212,"Adventure, Drama",William Wyler,"Charlton Heston, Jack Hawkins, Stephen Boyd",74432704,8.1,264338
+tt1392190,Mad Max: Fury Road,2015,R,15-May-15,120,"Action, Adventure, Sci-Fi",George Miller,"Tom Hardy, Charlize Theron, Nicholas Hoult",154280290,8.1,1174439
+tt0096283,My Neighbor Totoro,1988,G,13-Jul-90,86,"Animation, Adventure, Comedy",Hayao Miyazaki,"Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto",2250213,8.1,413303
+tt0097165,Dead Poets Society,1989,PG,9-Jun-89,128,"Comedy, Drama",Peter Weir,"Robin Williams, Robert Sean Leonard, Ethan Hawke",95860116,8.1,587741
+tt0072684,Barry Lyndon,1975,PG,18-Dec-75,185,"Adventure, Drama, War",Stanley Kubrick,"Ryan O'Neal, Marisa Berenson, Patrick Magee",,8.1,196120
+tt0118849,Children of Heaven,1997,PG,22-Jan-99,89,"Drama, Family, Sport",Majid Majidi,"Reza Naji, Amir Farrokh Hashemian, Bahare Seddiqi",933933,8.2,86937
+tt2119532,Hacksaw Ridge,2016,R,4-Nov-16,139,"Biography, Drama, History",Mel Gibson,"Andrew Garfield, Sam Worthington, Luke Bracey",67209615,8.1,644182
+tt2278388,The Grand Budapest Hotel,2014,R,28-Mar-14,99,"Comedy, Drama",Wes Anderson,"Ralph Fiennes, F. Murray Abraham, Mathieu Amalric",59301324,8.1,933595
+tt10872600,Spider-Man: No Way Home,2021,PG-13,17-Dec-21,148,"Action, Adventure, Fantasy",Jon Watts,"Tom Holland, Zendaya, Benedict Cumberbatch",814866759,8.2,967684
+tt2024544,12 Years a Slave,2013,R,8-Nov-13,134,"Biography, Drama, History",Steve McQueen,"Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender",56671993,8.1,769342
+tt0112471,Before Sunrise,1995,R,27-Jan-95,101,"Comedy, Drama, Romance",Richard Linklater,"Ethan Hawke, Julie Delpy, Andrea Eckert",5535405,8.1,362441
+tt0083658,Blade Runner,1982,R,25-Jun-82,117,"Action, Drama, Sci-Fi",Ridley Scott,"Harrison Ford, Rutger Hauer, Sean Young",32914489,8.1,858617
+tt0353969,Memories of Murder,2003,Not Rated,2-May-03,132,"Crime, Drama, Mystery",Bong Joon Ho,"Song Kang-ho, Kim Sang-kyung, Kim Roe-ha",15357,8.1,247205
+tt2267998,Gone Girl,2014,R,3-Oct-14,149,"Drama, Mystery, Thriller",David Fincher,"Ben Affleck, Rosamund Pike, Neil Patrick Harris",167767189,8.1,1129823
+tt0382932,Ratatouille,2007,G,29-Jun-07,111,"Animation, Adventure, Comedy","Brad Bird, Jan Pinkava","Brad Garrett, Lou Romano, Patton Oswalt",206445654,8.1,897299
+tt0892769,How to Train Your Dragon,2010,PG,26-Mar-10,98,"Animation, Action, Adventure","Dean DeBlois, Chris Sanders","Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse",217581231,8.1,859352
+tt0198781,"Monsters, Inc.",2001,G,23-Nov-01,92,"Animation, Adventure, Comedy","Pete Docter, David Silverman, Lee Unkrich","Billy Crystal, John Goodman, Mary Gibbs",290642256,8.1,1036804
+tt0107207,In the Name of the Father,1993,R,25-Feb-94,133,"Biography, Crime, Drama",Jim Sheridan,"Daniel Day-Lewis, Pete Postlethwaite, Alison Crosbie",25096862,8.1,197720
+tt0073195,Jaws,1975,PG,20-Jun-75,124,"Adventure, Horror, Thriller",Steven Spielberg,"Roy Scheider, Robert Shaw, Richard Dreyfuss",267263625,8.1,707915
+tt3011894,Wild Tales,2014,R,21-Aug-14,122,"Comedy, Drama, Thriller",Damián Szifron,"Darío Grandinetti, María Marull, Mónica Villa",3106530,8.1,230974
+tt0015864,The Gold Rush,1925,Approved,16-Aug-25,95,"Adventure, Comedy, Drama",Charles Chaplin,"Charles Chaplin, Mack Swain, Tom Murray",,8.1,124467
+tt1950186,Ford v Ferrari,2019,PG-13,15-Nov-19,152,"Action, Biography, Drama",James Mangold,"Matt Damon, Christian Bale, Jon Bernthal",117624357,8.1,534786
+tt0015324,Sherlock Jr.,1924,Passed,11-May-24,45,"Action, Comedy, Romance",Buster Keaton,"Buster Keaton, Kathryn McGuire, Joe Keaton",977375,8.2,60321
+tt0978762,Mary and Max,2009,Not Rated,9-Apr-09,92,"Animation, Comedy, Drama",Adam Elliot,"Toni Collette, Philip Seymour Hoffman, Eric Bana",,8.1,195504
+tt0046268,The Wages of Fear,1953,Not Rated,16-Feb-55,156,"Adventure, Drama, Thriller",Henri-Georges Clouzot,"Yves Montand, Charles Vanel, Peter van Eyck",21228,8.1,70688
+tt0077416,The Deer Hunter,1978,R,23-Feb-79,183,"Drama, War",Michael Cimino,"Robert De Niro, Christopher Walken, John Cazale",48979328,8.1,376792
+tt0017925,The General,1926,Passed,2-Jan-27,78,"Action, Adventure, Comedy","Clyde Bruckman, Buster Keaton","Buster Keaton, Marion Mack, Glen Cavender",,8.1,103683
+tt0031679,Mr. Smith Goes to Washington,1939,Approved,19-Oct-39,129,"Comedy, Drama",Frank Capra,"James Stewart, Jean Arthur, Claude Rains",144738,8.1,124502
+tt0047296,On the Waterfront,1954,Approved,22-Jun-54,108,"Crime, Drama, Thriller",Elia Kazan,"Marlon Brando, Karl Malden, Lee J. Cobb",,8.1,172324
+tt3315342,Logan,2017,R,3-Mar-17,137,"Action, Drama, Sci-Fi",James Mangold,"Hugh Jackman, Patrick Stewart, Dafne Keen",226277068,8.1,898056
+tt0075148,Rocky,1976,PG,3-Dec-76,120,"Drama, Sport",John G. Avildsen,"Sylvester Stallone, Talia Shire, Burt Young",117235147,8.1,665820
+tt0050986,Wild Strawberries,1957,Not Rated,22-Jun-59,92,"Drama, Romance",Ingmar Bergman,"Victor Sjöström, Bibi Andersson, Ingrid Thulin",,8.1,120290
+tt0046438,Tokyo Story,1953,Not Rated,13-Mar-72,137,Drama,Yasujirô Ozu,"Chishû Ryû, Chieko Higashiyama, Sô Yamamura",,8.1,73492
+tt0041959,The Third Man,1949,Approved,1-Feb-50,104,"Drama, Film-Noir, Mystery",Carol Reed,"Orson Welles, Joseph Cotten, Alida Valli",1067364,8.1,190382
+tt1895587,Spotlight,2015,R,20-Nov-15,129,"Biography, Crime, Drama",Tom McCarthy,"Mark Ruffalo, Michael Keaton, Rachel McAdams",45055776,8.1,522481
+tt26548265,Maharaja,2024,N/A,13-Jun-24,141,"Action, Crime, Drama",Nithilan Saminathan,"Vijay Sethupathi, Anurag Kashyap, Mamta Mohandas",,8.4,59983
+tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,9-Jul-03,143,"Action, Adventure, Fantasy",Gore Verbinski,"Johnny Depp, Geoffrey Rush, Orlando Bloom",305413918,8.1,1276659
+tt0088247,The Terminator,1984,R,26-Oct-84,107,"Action, Adventure, Sci-Fi",James Cameron,"Arnold Schwarzenegger, Linda Hamilton, Michael Biehn",38371200,8.1,971751
+tt0118715,The Big Lebowski,1998,R,6-Mar-98,117,"Comedy, Crime","Joel Coen, Ethan Coen","Jeff Bridges, John Goodman, Julianne Moore",19488923,8.1,895954
+tt0113247,La haine,1995,Not Rated,23-Feb-96,98,"Crime, Drama",Mathieu Kassovitz,"Vincent Cassel, Hubert Koundé, Saïd Taghmaoui",280859,8.1,213106
+tt0050976,The Seventh Seal,1957,Not Rated,13-Oct-58,96,"Drama, Fantasy",Ingmar Bergman,"Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",,8.1,210348
+tt3170832,Room,2015,R,22-Jan-16,118,"Drama, Thriller",Lenny Abrahamson,"Brie Larson, Jacob Tremblay, Sean Bridgers",14677654,8.1,469013
+tt15097216,Jai Bhim,2021,Approved,2-Nov-21,164,"Crime, Drama",T.J. Gnanavel,"Suriya, Lijo Mol Jose, Manikandan K.",,8.6,226999
+tt0395169,Hotel Rwanda,2004,PG-13,4-Feb-05,121,"Biography, Drama, History",Terry George,"Don Cheadle, Sophie Okonedo, Joaquin Phoenix",23530892,8.1,385770
+tt0091763,Platoon,1986,R,6-Feb-87,120,"Drama, War",Oliver Stone,"Charlie Sheen, Tom Berenger, Willem Dafoe",138530565,8.1,459781
+tt0036868,The Best Years of Our Lives,1946,Approved,29-May-47,170,"Drama, Romance, War",William Wyler,"Myrna Loy, Dana Andrews, Fredric March",23650000,8.1,72322
+tt0381681,Before Sunset,2004,R,30-Jul-04,80,"Drama, Romance",Richard Linklater,"Ethan Hawke, Julie Delpy, Vernon Dobtcheff",5820649,8.1,303571
+tt0059742,The Sound of Music,1965,G,1-Apr-65,172,"Biography, Drama, Family",Robert Wise,"Julie Andrews, Christopher Plummer, Eleanor Parker",159287539,8.1,277416
+tt0070047,The Exorcist,1973,R,26-Dec-73,122,Horror,William Friedkin,"Ellen Burstyn, Max von Sydow, Linda Blair",233005644,8.1,479788
+tt0317705,The Incredibles,2004,PG,5-Nov-04,115,"Animation, Action, Adventure",Brad Bird,"Craig T. Nelson, Samuel L. Jackson, Holly Hunter",261441092,8,864800
+tt1028532,Hachi: A Dog's Tale,2009,G,12-Mar-10,93,"Biography, Drama, Family",Lasse Hallström,"Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa",,8.1,331250
+tt1979320,Rush,2013,R,27-Sep-13,123,"Biography, Drama, Sport",Ron Howard,"Daniel Brühl, Chris Hemsworth, Olivia Wilde",26947624,8.1,541436
+tt0032138,The Wizard of Oz,1939,G,25-Aug-39,102,"Adventure, Family, Fantasy","Victor Fleming, George Cukor, Norman Taurog","Judy Garland, Frank Morgan, Ray Bolger",24668669,8.1,453906
+tt0019254,The Passion of Joan of Arc,1928,Passed,25-Oct-28,114,"Biography, Drama, History",Carl Theodor Dreyer,"Maria Falconetti, Eugene Silvain, André Berley",21877,8.1,64865
+tt0092005,Stand by Me,1986,R,22-Aug-86,89,"Adventure, Comedy, Drama",Rob Reiner,"Wil Wheaton, River Phoenix, Corey Feldman",52287414,8.1,468427
+tt5323662,A Silent Voice: The Movie,2016,Not Rated,17-Sep-16,130,"Animation, Drama",Naoko Yamada,"Miyu Irino, Saori Hayami, Aoi Yûki",1079689,8.1,122060
+tt0476735,My Father and My Son,2005,Not Rated,18-Nov-05,112,"Drama, Family",Çagan Irmak,"Çetin Tekindor, Fikret Kuskan, Hümeyra",,8.2,97290
+tt0129167,The Iron Giant,1999,PG,6-Aug-99,86,"Animation, Action, Adventure",Brad Bird,"Eli Marienthal, Harry Connick Jr., Jennifer Aniston",23315035,8.1,248398
+tt0074958,Network,1976,R,27-Nov-76,121,Drama,Sidney Lumet,"Faye Dunaway, William Holden, Peter Finch",23689877,8.1,176692
+tt4016934,The Handmaiden,2016,Not Rated,2-Sep-17,145,"Drama, Romance, Thriller",Park Chan-wook,"Kim Min-hee, Ha Jung-woo, Cho Jin-woong",2006788,8.1,191222
+tt0058946,The Battle of Algiers,1966,Not Rated,20-Sep-67,121,"Drama, War",Gillo Pontecorvo,"Brahim Hadjadj, Jean Martin, Yacef Saadi",879794,8.1,71960
+tt0032551,The Grapes of Wrath,1940,Approved,15-Mar-40,129,Drama,John Ford,"Henry Fonda, Jane Darwell, John Carradine",,8.1,106028
+tt0035446,To Be or Not to Be,1942,Approved,6-Mar-42,99,"Comedy, Romance, War",Ernst Lubitsch,"Carole Lombard, Jack Benny, Robert Stack",3270000,8.1,46894
+tt0758758,Into the Wild,2007,R,19-Oct-07,148,"Adventure, Biography, Drama",Sean Penn,"Emile Hirsch, Vince Vaughn, Catherine Keener",18354356,8,682451
+tt0107048,Groundhog Day,1993,PG,12-Feb-93,101,"Comedy, Drama, Fantasy",Harold Ramis,"Bill Murray, Andie MacDowell, Chris Elliott",71107962,8,721328
+tt1454029,The Help,2011,PG-13,10-Aug-11,146,Drama,Tate Taylor,"Viola Davis, Emma Stone, Octavia Spencer",169708112,8.1,516093
+tt11032374,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2020,TV-MA,23-Apr-21,117,"Animation, Action, Adventure",Haruo Sotozaki,"Natsuki Hanae, Akari Kitô, Yoshitsugu Matsuoka",49888550,8.2,86907
+tt4430212,Drishyam,2015,Not Rated,31-Jul-15,163,"Crime, Drama, Mystery",Nishikant Kamat,"Ajay Devgn, Shriya Saran, Tabu",,8.2,100740
+tt1954470,Gangs of Wasseypur,2012,Not Rated,22-Jun-12,321,"Action, Comedy, Crime",Anurag Kashyap,"Manoj Bajpayee, Nawazuddin Siddiqui, Tigmanshu Dhulia",,8.2,106403
