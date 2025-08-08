@@ -37,8 +37,8 @@ A Python-powered project to extract, enrich, and analyze IMDb's Top 250 Movies. 
 IMDb-Movie-Insights/
 ├── data/
 │ ├── top_250_simple.csv # Raw scraped titles + URLs
-│ ├── top_250_detailed.csv # Scraped movie-level details
-│ ├── top_250_enriched_clean.csv # OMDb API-enriched data
+│ ├── movie_genres.csv 
+│ ├── top_250_budget.csv
 │ └── top_250_final.csv # ✅ Cleaned & transformed dataset
 │
 ├── src/
@@ -48,6 +48,6 @@ IMDb-Movie-Insights/
 │ └── check_data_types.ipynb # Data validation & transformation
 │
 ├── Power BI/
-│ └── IMDB-dashboard.pbix - KPI visualizations
+│ └── imdb.pbix - KPI visualizations
 │
 ├── README.md
